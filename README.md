@@ -15,6 +15,7 @@ It supports **ES6** operators, while older versions of Node don't.
 
 You can install this program by running `npm install`
 
+# Morse Code app
 ## How to run
 
 You can use the CLI or the npm scripts
@@ -29,3 +30,8 @@ Run against a string
 ## How to test
 
 `npm test`
+
+# Flatten algorithm
+## How to run
+
+Run the algorithm by npm script `npm run flatten`
